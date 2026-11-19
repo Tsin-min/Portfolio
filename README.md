@@ -13,6 +13,12 @@
  - Протестировать сервис по тест-кейсам и проставить статусы выполнения проверок.
  - Составить баг-репорты.
 
+Тест-кейсы:
+https://docs.google.com/spreadsheets/d/1sWe6TXmT94Gwc5g3irjy6C_3Oxh0ARGKdU7-f_TMldA/edit?gid=220888493#gid=220888493
+
+Баг-репорты:
+https://docs.google.com/spreadsheets/d/1AvCyYaCGF7tr5vqkMXz_T-eXnhCXPVlfj7Uj6vCWImA/edit?gid=1186534874#gid=1186534874
+
 Часть 2: ретест багов
 
 Задачи
@@ -20,4 +26,5 @@
  - Изучить список багов, которые нашли другие тестировщики в сервисе Mesto.
  - Убедиться, что разработчики исправили баги: провести ретест, используя тестовый стенд.
 
-[1-й спринт. Mesto v12.2.25.pdf](https://github.com/user-attachments/files/35085181/1-.Mesto.v12.2.25.pdf)
+Баг-репорты:
+https://docs.google.com/spreadsheets/d/1AHRGVxJGoAn8d8X62WOYZaG2eOjFWbMbyIv1HrJs5T4/edit?gid=379530441#gid=379530441
