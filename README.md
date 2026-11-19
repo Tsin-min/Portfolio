@@ -44,4 +44,4 @@
 3. Протестировать расчёты и завести баг-репорты, если есть баги.
 
 Проект
-https://docs.google.com/spreadsheets/d/1Rl4VuwlkSnhULPBB9_hcCRgZzwDQo-tHC1k1lEVxlS8/edit?gid=454479584#gid=454479584
+https://docs.google.com/spreadsheets/d/1Rl4VuwlkSnhULPBB9_hcCRgZzwDQo-tHC1k1lEVxlS8/edit?gid=483862348#gid=483862348
